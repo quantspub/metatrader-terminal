@@ -1,4 +1,6 @@
-# metatrader-terminal
+# Metatrader Terminal
+
+Tools and Scripts for packaging metatrader into a docker image.
 
 https://github.com/fortesenselabs/metatrader-terminal/
 
